@@ -22,7 +22,7 @@ After running ntlmrelayx, check the ntlmrelayx tmux window for a successful rela
 
 ## Output Format
 
-Explain your thought process and justifications. At the end, output the results in JSON format in webdav_scan_results.txt. Include which systems had WebClient service, and commands executed in an array. Also include output from ntlmrelayx if there was a successful relay. Once the scans are done, say you are finished and don't rerun commands. Once you are finished and completed the goal, exit the gemini console and stop running.
+Explain and show your thought process and justification throughout. At the end, output the results in JSON format in webdav_scan_results.txt. Include which systems had WebClient service, and commands executed in an array. Also include output from ntlmrelayx if there was a successful relay. Once the scans are done, say you are finished and don't rerun commands. Once you are finished and completed the goal, exit the gemini console and stop running.
 
 ## Prohibitions
 
